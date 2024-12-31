@@ -1,0 +1,45 @@
+Indicator Code,Indicator Name,Type
+EG.ELC.ACCS.ZS,Access to electricity (% of population),median
+AG.LND.IRIG.AG.ZS,Agricultural irrigated land (% of total agricultural land),median
+AG.LND.AGRI.ZS,Agricultural land (% of land area),mean
+AG.LND.AGRI.K2,Agricultural land (sq. km),median
+NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",median
+NV.AGR.EMPL.KD,"Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",median
+AG.LND.ARBL.ZS,Arable land (% of land area),median
+AG.LND.ARBL.HA.PC,Arable land (hectares per person),median
+AG.LND.PRCP.MM,Average precipitation in depth (mm per year),mean
+AG.PRD.CREL.MT,Cereal production (metric tons),median
+AG.YLD.CREL.KG,Cereal yield (kg per hectare),median
+SL.AGR.0714.ZS,Child employment in agriculture (% of economically active children ages 7-14),mean
+AG.PRD.CROP.XD,Crop production index (2014-2016 = 100),mean
+EN.CLC.MDAT.ZS,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",median
+SL.AGR.EMPL.ZS,Employment in agriculture (% of total employment) (modeled ILO estimate),median
+AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land),median
+TM.VAL.FOOD.ZS.UN,Food imports (% of merchandise imports),mean
+AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),median
+NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),median
+NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %),mean
+SI.POV.GINI,Gini index,mean
+SE.ADT.LITR.ZS,"Literacy rate, adult total (% of people ages 15 and above)",median
+AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100),mean
+SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)",median
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",median
+SH.H2O.BASW.ZS,People using at least basic drinking water services (% of population),median
+SH.STA.BASS.ZS,People using at least basic sanitation services (% of population),median
+PV.EST,Political Stability and Absence of Violence/Terrorism: Estimate,median
+SP.POP.GROW,Population growth (annual %),mean
+SI.POV.GAPS,Poverty gap at $2.15 a day (2017 PPP) (%),median
+SI.POV.NAHC,Poverty headcount ratio at national poverty lines (% of population),median
+SH.ANM.CHLD.ZS,Prevalence of anemia among children (% of children ages 6-59 months),median
+SN.ITK.MSFI.ZS,Prevalence of moderate or severe food insecurity in the population (%),
+SN.ITK.SVFI.ZS,Prevalence of severe food insecurity in the population (%),
+SH.STA.STNT.ZS,"Prevalence of stunting, height for age (% of children under 5)",mean
+SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),median
+SH.STA.MALN.ZS,"Prevalence of underweight, weight for age (% of children under 5)",median
+SH.STA.WAST.ZS,"Prevalence of wasting, weight for height (% of children under 5)",median
+SM.POP.REFG,Refugee population by country or territory of asylum,median
+ER.H2O.INTR.PC,Renewable internal freshwater resources per capita (cubic meters),median
+SP.RUR.TOTL.ZS,Rural population (% of total population),mean
+SE.PRM.NENR,"School enrollment, primary (% net)",median
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",median
+SL.EMP.VULN.ZS,"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",mean

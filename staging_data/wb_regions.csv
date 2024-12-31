@@ -1,0 +1,50 @@
+Region Code,Region Name,2-alpha code,WB-2 code,Description
+AFE,Africa Eastern and Southern,ZH,ZH,"26 countries, stretching from the Red Sea in the North to the Cape of Good Hope in the South (https://www.worldbank.org/en/region/afr/eastern-and-southern-africa)"
+AFW,Africa Western and Central,ZI,ZI,"22 countries, stretching from the westernmost point of Africa, across the equator, and partly along the Atlantic Ocean till the Republic of Congo in the South (https://www.worldbank.org/en/region/afr/western-and-central-africa)"
+ARB,Arab World,1A,1A,Arab World aggregate. Arab World is composed of members of the League of Arab States.
+CEB,Central Europe and the Baltics,B8,B8,Central Europe and the Baltics aggregate.
+CSS,Caribbean small states,S3,S3,Caribbean small states aggregate.
+EAP,East Asia & Pacific (excluding high income),4E,4E,
+EAR,Early-demographic dividend,V2,V2,Early-dividend countries are mostly lower-middle-income countries further along the fertility transition. Fertility rates have fallen below four births per woman and the working-age share of the population is likely rising considerably.
+EAS,East Asia & Pacific,Z4,Z4,East Asia and Pacific regional aggregate (includes all income levels).
+ECA,Europe & Central Asia (excluding high income),7E,7E,
+ECS,Europe & Central Asia,Z7,Z7,Europe and Central Asia regional aggregate (includes all income levels).
+EMU,Euro area,XC,XC,Euro area aggregate.
+EUU,European Union,EU,EU,European Union aggregate.
+FCS,Fragile and conflict affected situations,F1,F1,"Countries are distinguished based on the nature and severity of issues they face. The classification uses the following categories: - Countries with high levels of institutional and social fragility, identified based on publicly available indicators that measure the quality of policy and institutions and manifestations of fragility. - Countries affected by violent conflict, identified based on a threshold number of conflict-related deaths relative to the population. This category includes two sub-categories based on the intensity of violence: countries in high-intensity conflict and countries in medium-intensity conflict. For more information, please visit https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/harmonized-list-of-fragile-situations."
+HIC,High income,XD,XD,"High income group aggregate. High-income economies are those in which 2023 Atlas GNI per capita was more than $14,005."
+HPC,Heavily indebted poor countries (HIPC),XE,XE,"The Heavily Indebted Poor Countries (HIPC) refer to countries that participated in the HIPC Initiative, launched in 1996 by the IMF and World Bank to reduce external debt burdens of the most heavily indebted poor countries at that time to sustainable levels. To date, the majority of the countries completed the program, receiving 76 billion in debt-service relief over time. For more details, visit https://www.imf.org/en/About/Factsheets/Sheets/2016/08/01/16/11/Debt-Relief-Under-the-Heavily-Indebted-Poor-Countries-Initiative.
+Data are aggregates for HIPC."
+IBD,IBRD only,XF,XF,IBRD only group aggregate.
+IBT,IDA & IBRD total,ZT,ZT,"IDA and IBRD total group aggregate (includes IDA only, IDA blend, and IBRD only)."
+IDA,IDA total,XG,XG,IDA total group aggregate (includes IDA only and IDA blend).
+IDB,IDA blend,XH,XH,IDA blend group aggregate.
+IDX,IDA only,XI,XI,IDA only group aggregate.
+LAC,Latin America & Caribbean (excluding high income),XJ,XJ,
+LCN,Latin America & Caribbean,ZJ,ZJ,
+LDC,Least developed countries: UN classification,XL,XL,
+LIC,Low income,XM,XM,"Low income group aggregate. Low-income economies are those in which 2023 Atlas GNI per capita was $1,145 or less."
+LMC,Lower middle income,XN,XN,"Lower middle income group aggregate. Lower-middle-income economies are those in which Atlas 2023 GNI per capita was between $1,146 and $4,515."
+LMY,Low & middle income,XO,XO,"Low and middle-income group aggregate. Low and middle-income economies are those in which Atlas 2023 GNI per capita was less than $14,005."
+LTE,Late-demographic dividend,V3,V3,Late-dividend countries are mostly upper middle-income countries. Fertility rates are typically above replacement levels of 2.1 births per woman but continue to decline with shrinking working-age shares and rapid aging.
+MEA,Middle East & North Africa,ZQ,ZQ,Middle East and North Africa regional aggregate (includes all income levels).
+MIC,Middle income,XP,XP,"Middle income group aggregate. Middle-income economies are those in which 2023 Atlas GNI per capita was between $1,146 and $14,005."
+MNA,Middle East & North Africa (excluding high income),XQ,XQ,
+NAC,North America,XU,XU,North America regional aggregate. There are no economies in North America classified as low or middle income.
+OED,OECD members,OE,OE,
+OSS,Other small states,S4,S4,Other small states aggregate.
+PRE,Pre-demographic dividend,V1,V1,"Pre-dividend countries are mostly low-income countries, lagging in key human development indicators and with current fertility levels above four births per woman. They face very rapid population growth."
+PSS,Pacific island small states,S2,S2,Pacific island small states aggregate.
+PST,Post-demographic dividend,V4,V4,Post-dividend countries are mostly high-income countries where fertility has transitioned below replacement levels.
+SAS,South Asia,8S,8S,
+SSA,Sub-Saharan Africa (excluding high income),ZF,ZF,
+SSF,Sub-Saharan Africa,ZG,ZG,Sub-Saharan Africa regional aggregate (includes all income levels).
+SST,Small states,S1,S1,Small states aggregate.
+TEA,East Asia & Pacific (IDA & IBRD),T4,T4,East Asia & Pacific (IDA & IBRD countries) aggregate.
+TEC,Europe & Central Asia (IDA & IBRD),T7,T7,Europe & Central Asia (IDA & IBRD countries) aggregate.
+TLA,Latin America & Caribbean (IDA & IBRD),T2,T2,Latin America & the Caribbean (IDA & IBRD countries) aggregate.
+TMN,Middle East & North Africa (IDA & IBRD),T3,T3,Middle East & North Africa (IDA & IBRD countries) aggregate.
+TSA,South Asia (IDA & IBRD),T5,T5,South Asia (IDA & IBRD countries) aggregate.
+TSS,Sub-Saharan Africa (IDA & IBRD),T6,T6,Sub-Saharan Africa (IDA & IBRD countries) aggregate.
+UMC,Upper middle income,XT,XT,"Upper middle income group aggregate. Upper-middle-income economies are those in which 2023 Atlas GNI per capita was between $4,516 and $14,005."
+WLD,World,1W,1W,
